@@ -33,4 +33,4 @@ If this policy changes, we will update the "Last updated" date at the top of thi
 
 ## Contact
 
-Questions about this policy: **valkrie@gmail.com**
+Questions about this policy: **fuegocalc-dev@prodigalpanda.com**

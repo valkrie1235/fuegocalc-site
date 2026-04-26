@@ -5,4 +5,4 @@ A retirement planning app for iPhone that tests your plan against every historic
 - [Privacy policy](privacy-policy.html)
 - [Support](support.html)
 
-Questions? Email **valkrie@gmail.com**.
+Questions? Email **fuegocalc-dev@prodigalpanda.com**.

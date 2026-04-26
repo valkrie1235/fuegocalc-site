@@ -1,6 +1,6 @@
 # fuegoCalc Support
 
-Thanks for using fuegoCalc. The fastest way to get help is to email **valkrie@gmail.com**.
+Thanks for using fuegoCalc. The fastest way to get help is to email **fuegocalc-dev@prodigalpanda.com**.
 
 ## Common questions
 
@@ -24,7 +24,7 @@ The simulation continues running after a portfolio depletes, showing the cumulat
 
 ## Reporting bugs
 
-Email **valkrie@gmail.com** with:
+Email **fuegocalc-dev@prodigalpanda.com** with:
 
 1. What you were doing
 2. What you expected to happen
